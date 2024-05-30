@@ -5,7 +5,7 @@ This project is a simple React application aimed at providing an overview of cor
 ## Features
 ### Core Concepts
 - **CoreConcepts Component**: Displays a list of core React concepts.
-- ** CoreConcept Component**: Each concept includes an image, title, and description.
+- **CoreConcept Component**: Each concept includes an image, title, and description.
 ### Examples
 - **Tab Navigation**: Allows users to select different topics (Components, JSX, Props, State) to view related examples and code snippets.
 - **Example Description**: Each topic displays a description and code snippet.
